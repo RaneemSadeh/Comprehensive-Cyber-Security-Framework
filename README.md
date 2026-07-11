@@ -4,7 +4,7 @@ This repository presents a complete cybersecurity framework designed for modern 
 
 ---
 
-## 🧱 Framework Structure
+##  Framework Structure
 
 The framework includes four core components:
 
